@@ -1,0 +1,14 @@
+layout_spectrum: 0.2064692114945501
+typography_spectrum: 0.7495733667165041
+color:
+  brandStrength: 0.8535585128702223
+  lightness: 0.6431697248481214
+  saturation: 0.37283014692366123
+  rhythmicContrast: 0.0853663389571011
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+name: WierdBeard
